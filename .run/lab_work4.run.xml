@@ -4,7 +4,7 @@
     <module name="Java_Халтурина_Ольга.main" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="org.example.lab_work4.*" />
+        <option name="PATTERN" value="org.example.lab_work4.PersonDataReader" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
